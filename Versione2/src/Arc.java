@@ -1,4 +1,4 @@
-
+//ciao
 public class Arc extends NetObject{
 
 	Place place;
